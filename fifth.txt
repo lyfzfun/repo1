@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the fifth file.
+=======
+This is second b1 file.
+>>>>>>> b1
